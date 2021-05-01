@@ -1,0 +1,40 @@
+body{
+  background-color: rgba(119, 128, 128, 0.637);
+  font-family: century Gothic;
+}
+.App {
+  
+  text-align: center;
+  background-color: rgba(218, 240, 240, 0.637);
+}
+.Todo-container{
+  
+  border-top-left-radius:5px;
+  border-top-right-radius:5px;
+  background-color: rgba(255, 127, 80, 0.61);
+}
+.todo_list{
+  
+  text-align: center;
+}
+.Todo-Logo{
+  color:rgb(111, 111, 218);
+  /* margin-left: 40px;
+  margin-top:20px; */
+ 
+  float:left;
+}
+.Todo-Logo-img{
+  margin:0px 0px 0px 40px ;
+  width: 80px;
+  height: 80px;
+}
+.User-Profile{
+  margin-top: 10px;
+ float: right;
+ width: 15%;
+ height: 7vh;
+}
+.Add-Btn{
+  margin-top: 5px;
+}
